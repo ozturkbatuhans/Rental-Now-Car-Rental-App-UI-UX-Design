@@ -60,10 +60,3 @@ To design a user-friendly, responsive, and visually appealing interface for a ca
 
 > This is a conceptual design prototype. No backend or frontend code is included. The project demonstrates skills in user-centered design, usability, and layout structuring.
 
----
-
-## Preview
-
-![Mobile Design](link-to-screenshot-if-hosted)
-![Web Design](link-to-screenshot-if-hosted)
-
